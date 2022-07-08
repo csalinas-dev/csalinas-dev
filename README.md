@@ -11,3 +11,5 @@
 
 ## About Me
 I am a Software Engineer at [iTEAM Consulting](https://iteam.consulting/) in Albuquerque, New Mexico, USA. First starting my career in July 2014, the majority of my time has been with iTEAM Consulting (since October 2015).
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=casjr13.casjr13)
