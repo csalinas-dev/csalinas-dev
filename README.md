@@ -1,46 +1,34 @@
 <!--
-  Hero + stat cards are custom-built and self-hosted from csalinas.dev
-  (Next.js API routes → Sono-styled themed SVG). Source lives in the
-  csalinas-dev-site repo under src/lib/github + src/app/api/github.
-  Links stay as markdown below so they remain clickable.
+  The banner below is a single self-hosted SVG served from csalinas.dev
+  (Next.js API route → Sono-styled themed SVG). Source lives in the
+  csalinas-dev-site repo: src/lib/github + src/app/api/github/card.
+  Links stay as markdown so they remain clickable.
 -->
 
 <div align="center">
 
-<img src="https://csalinas.dev/api/github/hero" alt="Christopher Salinas Jr. — Senior Software Engineer, Albuquerque NM. TypeScript, React, Next.js, C#, .NET, GraphQL, SQL, Azure. Website: csalinas.dev" width="760" />
+<img src="https://csalinas.dev/api/github/card" alt="Christopher Salinas Jr. — Senior Software Engineer, Albuquerque NM. Stack: TypeScript, React, Next.js, C#, .NET, GraphQL, SQL, Azure. 16,000+ contributions, 16,000+ commits, top languages C#/JavaScript. Website: csalinas.dev" width="760" />
 
 </div>
 
-<div align="center">
+## `// portfolio & games`
 
-[![Website](https://img.shields.io/badge/csalinas.dev-0078d4?style=for-the-badge&logo=vercel&logoColor=white)](https://csalinas.dev)
-[![Photography](https://img.shields.io/badge/This_Christography-1f1f1f?style=for-the-badge&logo=adobe&logoColor=ce9178)](https://github.com/csalinas-dev/thischristography)
-<!-- Add your LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0078d4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE) -->
+**[csalinas.dev](https://csalinas.dev)** is my portfolio and playground — built with Next.js 15, React 19, and MUI. It's also where I ship silly little games:
 
-</div>
+- 🟩 **[Wordleverse](https://csalinas.dev/games/wordleverse)** — a Wordle clone with accounts and full play history
+- \# **[Hashtag](https://csalinas.dev/games/hashtag)** — a quick numbers puzzle
 
-<div align="center">
+## `// selected work`
 
-<img src="https://csalinas.dev/api/github/streak" alt="Contribution streak — total, current, and longest with date ranges" width="100%" />
+A lot of what I build is private or DevOps, but here are a few public sites I've shipped:
 
-<br /><br />
+- **[Goldwater Bank](https://goldwaterbank.com)** — banking site
+- **[WestStar Mortgage](https://westloan.com)** — mortgage lending site
+- **[Bugg Lights](https://bugglights.com)** — a fun little lighting build
 
-<img src="https://csalinas.dev/api/github/stats" alt="GitHub stats overview" height="200" />
-<img src="https://csalinas.dev/api/github/languages" alt="Most used languages" height="200" />
+## `// photography`
 
-</div>
-
----
-
-## `// featured work`
-
-| Project | What it is |
-| --- | --- |
-| **[csalinas.dev](https://csalinas.dev)** · [`csalinas-dev-site`](https://github.com/csalinas-dev/csalinas-dev-site) | My portfolio + playground — Next.js 15, React 19, MUI. Home of the games and these stat cards. |
-| **[This Christography](https://github.com/csalinas-dev/thischristography)** | My photography portfolio site — where the code meets the camera. |
-| **[Bugg Lights](https://github.com/csalinas-dev/bugg-lights)** | A fun little lighting build. |
-
-> **🎮 Come play a game.** [csalinas.dev](https://csalinas.dev) hosts a few of my builds — try **[Wordleverse](https://csalinas.dev/games/wordleverse)** or **[Hashtag](https://csalinas.dev/games/hashtag)** while you're there.
+Away from the keyboard, I shoot photos. See the work at **[This Christography](https://thischristography.com)** 📷
 
 <div align="center">
 <br />
