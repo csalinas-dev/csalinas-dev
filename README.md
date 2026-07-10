@@ -2,18 +2,17 @@
 
 # `Christopher Salinas Jr.`
 
-**Senior Software Engineer** · Albuquerque, NM · building for the web since age 7
+**Senior Software Engineer** · Albuquerque, NM · building for the web since 2014
 
 </div>
 
 ```ts
 const chris: SoftwareEngineer = {
   location:  "Albuquerque, NM",
-  role:      "Senior Software Engineer @ iTEAM Consulting",
+  role:      "Senior Software Engineer @ Netsurit (formerly iTEAM Consulting)",
   education: "B.S. Computer Science, University of New Mexico",
   stack:     ["TypeScript", "React", "Next.js", "C#", ".NET", "GraphQL", "SQL", "Azure"],
   website:   "https://csalinas.dev",
-  currently: "automating the mortgage industry & shipping silly little games",
   hobbies:   ["📷 photography", "⛳ golf", "🎮 building games"],
 };
 ```
@@ -22,7 +21,6 @@ const chris: SoftwareEngineer = {
 
 [![Website](https://img.shields.io/badge/csalinas.dev-0078d4?style=for-the-badge&logo=vercel&logoColor=white)](https://csalinas.dev)
 [![Photography](https://img.shields.io/badge/This_Christography-1f1f1f?style=for-the-badge&logo=adobe&logoColor=ce9178)](https://github.com/csalinas-dev/thischristography)
-[![GitHub](https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=cccccc)](https://github.com/csalinas-dev)
 <!-- Add your LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0078d4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE) -->
 
 </div>
@@ -52,7 +50,6 @@ const chris: SoftwareEngineer = {
 | --- | --- |
 | **[csalinas.dev](https://csalinas.dev)** · [`csalinas-dev-site`](https://github.com/csalinas-dev/csalinas-dev-site) | My portfolio + playground — Next.js 15, React 19, MUI. Home of the games and these stat cards. |
 | **[This Christography](https://github.com/csalinas-dev/thischristography)** | My photography portfolio site — where the code meets the camera. |
-| **[Pins n Pars](https://github.com/csalinas-dev/pins-n-pars)** | A social platform for golf content. |
 | **[Bugg Lights](https://github.com/csalinas-dev/bugg-lights)** | A fun little lighting build. |
 
 > **🎮 Come play a game.** [csalinas.dev](https://csalinas.dev) hosts a few of my builds — try **[Wordleverse](https://csalinas.dev/games/wordleverse)** or **[Hashtag](https://csalinas.dev/games/hashtag)** while you're there.
