@@ -1,21 +1,15 @@
+<!--
+  Hero + stat cards are custom-built and self-hosted from csalinas.dev
+  (Next.js API routes → Sono-styled themed SVG). Source lives in the
+  csalinas-dev-site repo under src/lib/github + src/app/api/github.
+  Links stay as markdown below so they remain clickable.
+-->
+
 <div align="center">
 
-# `Christopher Salinas Jr.`
-
-**Senior Software Engineer** · Albuquerque, NM · building for the web since 2014
+<img src="https://csalinas.dev/api/github/hero" alt="Christopher Salinas Jr. — Senior Software Engineer, Albuquerque NM. TypeScript, React, Next.js, C#, .NET, GraphQL, SQL, Azure. Website: csalinas.dev" width="760" />
 
 </div>
-
-```ts
-const chris: SoftwareEngineer = {
-  location:  "Albuquerque, NM",
-  role:      "Senior Software Engineer @ Netsurit (formerly iTEAM Consulting)",
-  education: "B.S. Computer Science, University of New Mexico",
-  stack:     ["TypeScript", "React", "Next.js", "C#", ".NET", "GraphQL", "SQL", "Azure"],
-  website:   "https://csalinas.dev",
-  hobbies:   ["📷 photography", "⛳ golf", "🎮 building games"],
-};
-```
 
 <div align="center">
 
@@ -24,12 +18,6 @@ const chris: SoftwareEngineer = {
 <!-- Add your LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0078d4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE) -->
 
 </div>
-
-<!--
-  The stat cards below are custom-built and self-hosted from csalinas.dev
-  (Next.js API routes → themed SVG). Source lives in the csalinas-dev-site
-  repo under src/lib/github + src/app/api/github. No third-party widgets.
--->
 
 <div align="center">
 
