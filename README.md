@@ -2,12 +2,17 @@
   The banner below is a single self-hosted SVG served from csalinas.dev
   (Next.js API route → Sono-styled themed SVG). Source lives in the
   csalinas-dev-site repo: src/lib/github + src/app/api/github/card.
+
+  The ?key=... is required by the endpoint: it only serves the card to
+  requests coming through GitHub's Camo image proxy that carry this key,
+  and it is rate-limited. Because this README is public the key isn't a
+  true secret — it's one layer of abuse mitigation, not access control.
   Links stay as markdown so they remain clickable.
 -->
 
 <div align="center">
 
-<img src="https://csalinas.dev/api/github/card" alt="Christopher Salinas Jr. — Senior Software Engineer, Albuquerque NM. Stack: TypeScript, React, Next.js, C#, .NET, GraphQL, SQL, Azure. 16,000+ contributions, 16,000+ commits, top languages C#/JavaScript. Website: csalinas.dev" width="760" />
+<img src="https://csalinas.dev/api/github/card?key=a7Sy_mFS8EucyS8bNYvQjH-15xPIyFF9" alt="Christopher Salinas Jr. — Senior Software Engineer, Albuquerque NM. Stack: TypeScript, React, Next.js, C#, .NET, GraphQL, SQL, Azure. 16,000+ contributions, 16,000+ commits, top languages C#/JavaScript. Website: csalinas.dev" width="760" />
 
 </div>
 
